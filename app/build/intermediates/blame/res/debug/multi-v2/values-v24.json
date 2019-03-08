@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/ran/Documents/android/Tengine-app-master/android/classification/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/Users/ran/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b081b3251a0192d93c1097ec0a8dab78/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        }
+    ]
+}

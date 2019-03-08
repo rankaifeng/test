@@ -1,0 +1,13 @@
+# ninja log v5
+0	1833	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	ecec555e8ef0babb
+1	2170	0	CMakeFiles/native-lib.dir/src/main/cpp/Tengine_Wrapper.cpp.o	2fd2599dad09db91
+2170	2292	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	d9eb4981f738075c
+1	1742	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	ecec555e8ef0babb
+2	2065	0	CMakeFiles/native-lib.dir/src/main/cpp/Tengine_Wrapper.cpp.o	2fd2599dad09db91
+2065	2190	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	d9eb4981f738075c
+2	2137	0	CMakeFiles/native-lib.dir/src/main/cpp/Tengine_Wrapper.cpp.o	2fd2599dad09db91
+2138	2247	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	d9eb4981f738075c
+2	2045	0	CMakeFiles/native-lib.dir/src/main/cpp/Tengine_Wrapper.cpp.o	2fd2599dad09db91
+2045	2166	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	d9eb4981f738075c
+4	2251	0	CMakeFiles/native-lib.dir/src/main/cpp/Tengine_Wrapper.cpp.o	2fd2599dad09db91
+2251	2374	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	d9eb4981f738075c

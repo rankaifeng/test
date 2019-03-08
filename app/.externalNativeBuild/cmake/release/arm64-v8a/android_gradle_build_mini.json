@@ -1,0 +1,26 @@
+{
+  "buildFiles": [
+    "/Users/ran/Documents/android/Tengine-app-master/android/classification/app/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/ran/Documents/SDK/sdk/cmake/3.6.4111459/bin/cmake --build /Users/ran/Documents/android/Tengine-app-master/android/classification/app/.externalNativeBuild/cmake/release/arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "native-lib-Release-arm64-v8a": {
+      "artifactName": "native-lib",
+      "buildCommand": "/Users/ran/Documents/SDK/sdk/cmake/3.6.4111459/bin/cmake --build /Users/ran/Documents/android/Tengine-app-master/android/classification/app/.externalNativeBuild/cmake/release/arm64-v8a --target native-lib",
+      "abi": "arm64-v8a",
+      "output": "/Users/ran/Documents/android/Tengine-app-master/android/classification/app/build/intermediates/cmake/release/obj/arm64-v8a/libnative-lib.so"
+    },
+    "libtengine-Release-arm64-v8a": {
+      "artifactName": "libtengine",
+      "abi": "arm64-v8a",
+      "output": "/Users/ran/Documents/android/Tengine-app-master/android/classification/app/src/main/jnilibs/arm64-v8a/libtengine.so"
+    },
+    "libopencv-Release-arm64-v8a": {
+      "artifactName": "libopencv",
+      "abi": "arm64-v8a",
+      "output": "/Users/ran/Documents/android/Tengine-app-master/android/classification/app/src/main/jnilibs/arm64-v8a/libopencv_java3.so"
+    }
+  }
+}
